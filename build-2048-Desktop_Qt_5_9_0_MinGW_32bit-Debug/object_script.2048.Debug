@@ -1,0 +1,15 @@
+INPUT(
+./debug\app.o
+./debug\model.o
+./debug\commandsink.o
+./debug\propertysink.o
+./debug\view.o
+./debug\layoutcommand.o
+./debug\movecommand.o
+./debug\viewmodel.o
+./debug\viewmodelsink.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\moc_view.o
+./debug\moc_mainwindow.o
+);

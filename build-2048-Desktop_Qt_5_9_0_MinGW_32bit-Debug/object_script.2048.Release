@@ -1,0 +1,15 @@
+INPUT(
+./release\app.o
+./release\model.o
+./release\commandsink.o
+./release\propertysink.o
+./release\view.o
+./release\layoutcommand.o
+./release\movecommand.o
+./release\viewmodel.o
+./release\viewmodelsink.o
+./release\main.o
+./release\mainwindow.o
+./release\moc_view.o
+./release\moc_mainwindow.o
+);
